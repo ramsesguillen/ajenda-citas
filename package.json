@@ -1,0 +1,14 @@
+{
+  "name": "citasmodulos-testing-cypress",
+  "version": "1.0.0",
+  "description": "Prueba con cypress para testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Guillen Ramses Salinas Salinas",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^5.3.0"
+  }
+}
